@@ -1,5 +1,4 @@
 
-/* Global Dark Theme */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
@@ -320,8 +319,7 @@ body {
   .navbar-search {
     width: 100%;
     margin-top: 10px;
-  } */
-     
+  }
 
   .categories-page {
     padding: 20px 10px;
